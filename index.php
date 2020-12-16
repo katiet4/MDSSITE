@@ -1,4 +1,5 @@
-<!-- another links and scripts -->
+<!-- another links, scripts and title-->
+<title>Login</title>
 <link rel="stylesheet" type="text/css" href="/static/css/login_style.css">
 <?php
 
