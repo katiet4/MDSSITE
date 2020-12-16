@@ -1,0 +1,20 @@
+
+.div_login{
+
+	margin-top: 20vw;
+
+}
+
+.form_login{
+	
+	width: 35vw;
+	margin: 0 auto;
+	height: 20vh;
+
+}
+.form_login input{
+	
+	border:1px solid black;
+	text-align: center;
+
+}

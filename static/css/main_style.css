@@ -1,0 +1,40 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	display: flex;
+}
+
+.logo{
+
+	margin-left:10vw;
+	width: 10vw;
+	font-size: 3vw;
+
+}
+
+.menu{
+	text-align: center; 
+	width: 70vw;
+	font-size: 1.5vw;
+}
+
+.menu ul{
+	list-style-type: none;
+}
+
+.menu ul li{
+	display:inline-block;
+	padding-top: 1vw;
+	padding-right: 10vw;
+}
+
+.menu ul li a{
+
+	text-decoration: none;
+	
+
+}
+
+/* #0a58ca */
